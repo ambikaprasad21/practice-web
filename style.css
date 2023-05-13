@@ -1,0 +1,17 @@
+.person {
+  width: 40%;
+  margin: auto;
+  background-color: blueviolet;
+  margin-bottom: 1rem;
+}
+
+.name {
+  color: red;
+  font-style: sans-serif;
+  padding-bottom: 1rem;
+}
+
+.city {
+  color: yellow;
+  font-style: sans-serif;
+}
